@@ -1,0 +1,14 @@
+{
+  "database": {
+    "base": "BeeDotNet"
+  },
+  "iserver": {
+    "path": "C:\\BeeDotNet\\IServer\\IServer.exe"
+  },
+  "delays": {
+    "delta_hour": 0.2
+  },
+  "ntp": {
+    "server": "10.96.13.235"
+  }
+}
